@@ -46,7 +46,7 @@ Week | Monday                                              | Wednesday
  6   | 8/31: [Ensemble Techniques](lectures/lec10.pdf)                           | 9/2: [K-Means Clustering and Unsupervised learning](lectures/lec11.pdf)
      |                                                     |
      | **UNIT 3**                                          | **APPLICATIONS**
- 7   | 9/7:  Labor Day (NO CLASS)                          | 9/9: Dimensionality Reduction 
+ 7   | 9/7:  Labor Day (NO CLASS)                          | 9/9: [Dimensionality Reduction](lectures/lec12.pdf)
  8   | 9/14: Recommendation systems                        | 9/16: Natural Language Processing and Text Mining
  9   | 9/21: Network Analysis             | 9/23: Neural Networks, Deep learning
  10  | 9/28: Time Series Analysis                          |
@@ -77,8 +77,8 @@ Midterm  | -------------                    |         | 8/31     |  9/9  |  9/11
 FP       | Deliverable            | Due  
 ---      | ---                    | ---  
 1        | Title & Data Sources   | 8/19 
-2        | Elevator Pitch         | 8/31 
-3        | Draft Analysis         | 9/23  
+2        | Elevator Pitch         | 9/2
+3        | Draft Analysis         | 9/23
 8        | Final Project Due      | 10/14
 
 ### Office Hours
